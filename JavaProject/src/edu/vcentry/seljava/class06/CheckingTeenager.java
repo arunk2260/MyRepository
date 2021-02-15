@@ -1,4 +1,4 @@
-
+package edu.vcentry.seljava.class06;
 
 public class CheckingTeenager {
 
